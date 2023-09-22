@@ -1,8 +1,10 @@
 ### Hi there 👋 my name is Killian
 
-- 🌱 I am a junior developer.
+- 🌱 I am a french junior developer.
 
-- 🔭 I am currently studying at Eni in Nantes, for bachelor Bac+4 Application developer designer..
+- 💻 I am currently studying at Eni in Nantes, for bachelor Bac+4 Application developer designer.
+
+- 🕹 Gamer at heart and also little streamer at twitch.
 
 - 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killian-sieniski-371846194)
